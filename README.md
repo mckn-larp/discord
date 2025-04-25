@@ -1,0 +1,2 @@
+# discord
+MCKN Discord Structure
