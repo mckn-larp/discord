@@ -6,51 +6,67 @@ Tags are brief, visible indicators of traits that must be communicated to others
 
 To represent what others can perceive at a glance, especially in combat, social, or investigation scenes.
 
-| Applies To        | Condition                           | Required Tag | Notes |
-|-------------------|-------------------------------------|--------------|-------|
-| Sabbat Characters | Humanity 6+                         | Humane       | Default appearance for higher Humanity Sabbat. |
-| Sabbat Characters | Humanity 4− or on a Path            | Inhumane     | Inhuman demeanor; may show signs of degeneration. |
-| Sabbat Characters | Using Masking Powers                | (none)       | Requires Obfuscate, Mask of 1000 Faces, etc. |
-| Garou/Fera        | Any non-Homid form                  | [Form] | Always required; e.g., Crinos, Hispo. |
-| Changeling        | Beast/monstrous features            | Kith Features| Tags required for tusks, horns, wings, etc. |
-| Changeling        | 4+ traits in one Attribute          | Exceptional: [Stat] | E.g., Exceptional: Strength, Appearance. |
-| Changeling        | Active powers or cantrips           | Power Active | Applies during visual/sensory effects. |
-| Changeling/Sabbat | Vicissitude or fae body mods        | Modded       | Or: Deformed, depending on aesthetic. |
-| Any               | Visible wards or weapons            | Armed / Ward Glyph | Required only if visibly carried or glowing. |
+| Code | Meaning            | Applies To                      | Notes |
+|------|--------------------|----------------------------------|-------|
+| HUE  | Humane             | Sabbat (Humanity 6–10)           | Tag as HUE or HU6–HU10 if precision is needed. |
+| IHU  | Inhumane           | Sabbat (Humanity 5–1 or on Path) | Visibly alien or monstrous demeanor. |
+| MAS  | Masked             | Sabbat using powers              | Must declare Obfuscate, rituals, etc. |
+| FCR  | Form: Crinos       | Garou/Fera                       | Required tag for monstrous form. |
+| FHI  | Form: Hispo        | Garou/Fera                       | Required tag. |
+| FGL  | Form: Glabro       | Garou/Fera                       | Optional, but encouraged. |
+| FLU  | Form: Lupus        | Garou/Fera                       | Required tag. |
+| FHY  | Form: Hybrid       | Bastet, Ananasi, or custom form | Use for mixed-form Fera. |
+| KTH  | Kith Traits        | Changeling                      | Tag for beast traits or monstrous kith signs. |
+| EXS  | Exceptional Stat   | Any                             | Tag like EXS:STR or EXS:APP for 4+ in one stat. |
+| ACT  | Active Power       | Any                             | Visual/sensory effects must be tagged. |
+| MOD  | Modified Body      | Vicissitude / Fae shaping       | Includes chimerical or flesh-crafted traits. |
+| ARM  | Armed              | Any                             | Tag if visibly carrying weapons or talens. |
+| WRD  | Warded             | Any                             | Glyphs, protective markings, etc. |
 
 ### Merits & Flaws
-| Trait Type         | Tag Example             | Rule |
-|--------------------|-------------------------|------|
-| Visible Deformity  | Deformed | Use when not represented with costume/makeup. |
-| Supernatural Aura  | Aura   | Use if visible through Auspex, sensing powers. |
-| Spirit Influence   | Spirit Magnet | Tag if it affects presence or environment. |
-| Supernatural Mark  | Affinity | Use when constantly visible (horns, glow, etc.). |
+| Code | Meaning             | Applies To       | Notes |
+|------|---------------------|------------------|-------|
+| DFM  | Deformed            | Physical flaws   | Use when not represented by makeup. |
+| AUR  | Aura Visible        | Supernatural aura| Auspex-readable or supernatural signature. |
+| FSP  | Spirit-Prone        | Spirit-affine    | For Spirit Magnet, Faerie Affinity, etc. |
+| MRX  | Mer-Flaw Expressive | Miscellaneous    | Generic tag when flaw visibly affects others. |
 
 ### Morality
 
 This reflects behavioral or metaphysical cues visible to certain senses (Auspex, sensing evil, emotional impressions, etc.)
 
-| Morality Level             | Tag       | Notes |
-|----------------------------|-----------|-------|
-| Humanity 6–10              | Humane    | Reflects a mortal sense of empathy and normalcy. |
-| Humanity 5–4               | Inhumane  | Loss of subtle human cues. |
-| Humanity 3 or less / Path  | Bestial   | Deep loss of identity; often unsettling aura. |
-| Masked by ritual/power     | (none)    | Must have power like Mask of 1000 Faces, etc. |
+| Code | Meaning      | Applies To              | Notes |
+|------|--------------|--------------------------|-------|
+| HUE  | Humane       | HU(6–10)                 | Same code as appearance (dual-use). |
+| IHU  | Inhumane     | HU(5–4) or on Path       | Behaviorally distant or predatory. |
+| BST  | Bestial      | HU(3–1) or Path extremes | Overwhelming aura of predation or madness. |
+| MSK  | Masked Aura  | Any                      | Aura hidden via ritual or power. |
 
 ### Forms
 
 Required for Changing Breeds and any supernatural shapechanger.
 
-| Form Name     | Tag           | Notes |
-|---------------|---------------|-------|
-| Glabro        | Glabro  | Noticeably larger and more aggressive. |
-| Crinos        | Crinos  | Required. Clearly monstrous war form. |
-| Hispo         | Hispo   | Beast-like war form (quadrupedal). |
-| Lupus         | Lupus   | Natural animal form. |
-| Hybrid        | Hybrid  | For mixed forms like Bastet or Ananasi. |
-| Zulo          | Zulo    | For war forms using Zulo or equivalent |
-| Horrid Form   | Horrid  | For use with *Horrid Form* |
-| Black Metamorphosis | BMet | For use of *Black Metamorphosis* |
+| Code | Form               | Applies To       | Notes |
+|------|--------------------|------------------|-------|
+| FHM  | Homid              | Default          | Optional; useful for Fera reverting to human. |
+| FGL  | Glabro             | Fera             | Hulking bipedal form. |
+| FCR  | Crinos             | Fera             | Massive, monstrous war form. |
+| FHI  | Hispo              | Fera             | Quadruped beast form. |
+| FLU  | Lupus              | Fera             | Natural wolf form. |
+| FHY  | Hybrid             | Bastet, etc.     | For unique breed-specific mixed forms. |
+| VHF  | Horrid Form        | Tzimisce         | From *Vicissitude 4*, monstrous war body. |
+| VBM  | Black Metamorphosis| Vicissitude Path | Path of Metamorphosis power; semi-liquid form of terror. |
+| VSB  | Shape of the Beast | Any Vampire      | Includes *Shape of the Beast* or *Mist Form*. Use as VSB:WOLF, VSB:BAT, etc. |
+| VMS  | Mist Form          | Vampires         | Use VSB:MIST if distinguishing forms. |
+| VSE  | Serpent Form       | Setites          | Slithering form of the snake. |
+| VSP  | Plasmic Form       | Blood Sorcery    | A liquid-state form via Thaumaturgy. |
+| VHO  | Horrid Form         | Vicissitude      | Horrid Form from. |
+
+- Note the prefix denoting creature type:  
+	- F: Fera
+	- V: Vampire
+	- C: Changeling
+	- M: Mage
 
 ### Masking
 
