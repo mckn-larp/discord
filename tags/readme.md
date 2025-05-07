@@ -1,3 +1,5 @@
+# TAGS
+
 ## Fera
 
 ### Breeds
@@ -86,6 +88,6 @@
 | Occult Underground     | OCU    | Esoteric mages, infernalists, Koldun, and dark mystics within the Sabbat pursuing forbidden knowledge, Thaumaturgy, and paths to spiritual power. |
 | Orthodoxy              | ORT    | The institutional and theological heart of the Sabbat. Combines the Order of St. Blaise's use of mortal influence and the Ecclesiastical clergy’s authority. Upholds structured rituals, spiritual hierarchy, and doctrinal control of Cainite society. |
 | Children of the Dracon | COD    | These Cainites see their role within the sword to be the “Devil’s Advocate” to the other factions. |
-| The Crimson Tide       | CRT    | A new, nomadic Sabbat movement advocating permanent crusade, pack-based society, and a return to nomadic terror. Rejects cities, politics, and stagnation. |
+| The Crimson Tide       | CRT    | The Crimson Tide is a fierce, nomadic Sabbat faction of warborn packs united by the Way of the Road, rejecting sect hierarchy in favor of pack loyalty, ritual combat, and an uncompromising crusade to annihilate the Camarilla. |
 | Black Hand             | BKH    | Secret militant sect within the Sabbat; assassins and loyalists. |
 | Inquisition (Sabbat)   | INQ    | Internal Sabbat watchdogs hunting infernalism and disloyalty. |
