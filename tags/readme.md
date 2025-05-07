@@ -11,28 +11,28 @@
 ### Sabbat
 
 #### Clans
-| Name                       | Abbrev | Description |
-|----------------------------|--------|-------------|
-| Assamite Antitribu         | ASA    | Cursed assassins loyal to the Sabbat, rejecting Haqim's law and plying their deadly craft outside the clan's constraints. |
-| Blood Brothers             | BBR    | Flesh-bound, ritual-grown shock troops connected by mystic vitae, bred solely for war and obedience. |
-| Brujah Antitribu           | BAT    | Rage-driven warriors of rebellion and violent freedom, embodying the Sabbat’s fury and chaos. |
-| Gangrel Antitribu          | GAT    | Wild, bestial roamers of the Sabbat, living by instinct and embracing the animalistic nature of the Beast. |
-| Harbingers of Skulls       | HOS    | Returned Cappadocians steeped in necromancy, vengeance, and a mystery-shrouded disdain for the Giovanni. |
-| Kiasyd                     | KIA    | Arcane, shadow-bound scholars descended from Lasombra experiments, steeped in fae lore and alien logic. |
-| Lasombra                   | LAS    | Shadow-wielding nobles and rulers; founders and leaders of the Sabbat with a lust for control and evolution. |
-| Malkavian Antitribu        | MAK    | Insane oracular vampires who embrace the Sabbat’s chaos, often prophets of destruction or agents of discord. |
-| Nosferatu Antitribu        | NAT    | Savage and brutal predators; more feral and violent than their Camarilla cousins, reveling in monstrosity. |
-| Panders                    | PAN    | Clanless Sabbat who earned recognition through numbers, zeal, and relentless advocacy for equality within the sect. |
-| Ravnos Antitribu           | RAV    | Anarchic illusionists and nihilists, rejecting their clan’s traditions in favor of Sabbat chaos and destruction. |
-| Salubri Antitribu          | SAL    | Dark mirror of the Salubri, often infernal or spiritually corrupt, embracing dark paths and twisted healing. |
-| Serpents of the Light      | SOL    | Loa-worshiping heretics of the Setite line, fusing Vodoun and necromantic rites in service of the Sabbat. |
-| Toreador Antitribu         | TOT    | Degenerate artists who glorify pain, suffering, and desecration as a form of transcendent expression. |
-| Tzimisce                   | TZI    | Flesh-shaping scholars and warlords, bound to ancient lore and twisted ideals of transcendence through evolution. |
-| Ventrue Antitribu          | VAT    | Ice-cold strategists and military elites; reject their Camarilla kin’s aristocracy in favor of Sabbat meritocracy. |
-| Gargoyle Antitribu         | GAT    | Rebellious stone-skinned former servants of Tremere, claiming autonomy and vengeance under the Sabbat banner. |
-| Sirens (Daughters Antitribu)| SIR   | Daughters of Cacophony aligned with the Sabbat; use haunting song to inspire madness, ecstasy, and death. |
-| Tremere Antitribu          | TRE    | Outcasts and traitors of the Tremere clan, often infernalists or dark thaumaturges seeking forbidden knowledge. |
-| Samedi Antitribu           | SAM    | Rotting, corpse-like vampires wielding death and decay as power, some aligned with Sabbat through shared darkness. |
+| Name                        | Abbrev | Description |
+|-----------------------------|--------|-------------|
+| Assamite Antitribu          | ASA    | Cursed assassins loyal to the Sabbat, rejecting Haqim's law and plying their deadly craft outside the clan's constraints. |
+| Blood Brothers              | BBR    | Flesh-bound, ritual-grown shock troops connected by mystic vitae, bred solely for war and obedience. |
+| Brujah Antitribu            | BAT    | Rage-driven warriors of rebellion and violent freedom, embodying the Sabbat’s fury and chaos. |
+| Gangrel Antitribu           | GAT    | Wild, bestial roamers of the Sabbat, living by instinct and embracing the animalistic nature of the Beast. |
+| Harbingers of Skulls        | HOS    | Returned Cappadocians steeped in necromancy, vengeance, and a mystery-shrouded disdain for the Giovanni. |
+| Kiasyd                      | KIA    | Arcane, shadow-bound scholars descended from Lasombra experiments, steeped in fae lore and alien logic. |
+| Lasombra                    | LAS    | Shadow-wielding nobles and rulers; founders and leaders of the Sabbat with a lust for control and evolution. |
+| Malkavian Antitribu         | MAK    | Insane oracular vampires who embrace the Sabbat’s chaos, often prophets of destruction or agents of discord. |
+| Nosferatu Antitribu         | NAT    | Savage and brutal predators; more feral and violent than their Camarilla cousins, reveling in monstrosity. |
+| Panders                     | PAN    | Clanless Sabbat who earned recognition through numbers, zeal, and relentless advocacy for equality within the sect. |
+| Ravnos Antitribu            | RAV    | Anarchic illusionists and nihilists, rejecting their clan’s traditions in favor of Sabbat chaos and destruction. |
+| Salubri Antitribu           | SAL    | Dark mirror of the Salubri, often infernal or spiritually corrupt, embracing dark paths and twisted healing. |
+| Serpents of the Light       | SOL    | Loa-worshiping heretics of the Setite line, fusing Vodoun and necromantic rites in service of the Sabbat. |
+| Toreador Antitribu          | TOT    | Degenerate artists who glorify pain, suffering, and desecration as a form of transcendent expression. |
+| Tzimisce                    | TZI    | Flesh-shaping scholars and warlords, bound to ancient lore and twisted ideals of transcendence through evolution. |
+| Ventrue Antitribu           | VAT    | Ice-cold strategists and military elites; reject their Camarilla kin’s aristocracy in favor of Sabbat meritocracy. |
+| Gargoyle Antitribu          | GRG    | Rebellious stone-skinned former servants of Tremere, claiming autonomy and vengeance under the Sabbat banner. |
+| Sirens (Daughters Antitribu)| SIR    | Daughters of Cacophony aligned with the Sabbat; use haunting song to inspire madness, ecstasy, and death. |
+| Tremere Antitribu           | TRE    | Outcasts and traitors of the Tremere clan, often infernalists or dark thaumaturges seeking forbidden knowledge. |
+| Samedi Antitribu            | SAM    | Rotting, corpse-like vampires wielding death and decay as power, some aligned with Sabbat through shared darkness. |
 
 #### Factions
 | Name                   | Abbrev | Description |
@@ -66,33 +66,33 @@
 
 #### Tribes
 | Name                     | Abbrev | Type         | Description |
-|--------------------------|--------|--------------|-------------|
-| Black Furies             | BFU    | Garou Tribe  | Warrior women tied to matriarchal mystery and vengeance. |
-| Bone Gnawers             | BGN    | Garou Tribe  | Urban survivors, scavengers, and defenders of the outcast. |
-| Children of Gaia         | COG    | Garou Tribe  | Pacifist healers striving for unity and peace. |
-| Fianna                   | FIA    | Garou Tribe  | Celtic lorekeepers, bards, and passionate warriors. |
-| Get of Fenris            | FEN    | Garou Tribe  | Brutal Norse warriors, defenders of strength and glory. |
-| Glass Walkers            | GLA    | Garou Tribe  | Tech-savvy Garou thriving in cities and systems. |
-| Red Talons               | RTL    | Garou Tribe  | Lupus supremacists, wild and feral defenders of nature. |
-| Shadow Lords             | SLD    | Garou Tribe  | Ambitious power players from the mountains and shadows. |
-| Silent Striders          | STR    | Garou Tribe  | Desert wanderers and bearers of ancient secrets. |
-| Silver Fangs             | SFN    | Garou Tribe  | Aristocratic leaders descended from Garou royalty. |
-| Stargazers               | STG    | Garou Tribe  | Mystics of the East; seekers of enlightenment and balance. |
-| Uktena                   | UKT    | Garou Tribe  | Indigenous spirit-keepers and guardians of hidden lore. |
-| Wendigo                  | WEN    | Garou Tribe  | Northern warriors with a fierce ancestral connection. |
-| Ajaba                    | AJA    | Bastet (Hyena) | Matriarchal hyena-changers; scavengers and survivalists. |
+|--------------------------|--------|------------------|-------------|
+| Black Furies             | BFU    | Garou Tribe      | Warrior women tied to matriarchal mystery and vengeance. |
+| Bone Gnawers             | BGN    | Garou Tribe      | Urban survivors, scavengers, and defenders of the outcast. |
+| Children of Gaia         | COG    | Garou Tribe      | Pacifist healers striving for unity and peace. |
+| Fianna                   | FIA    | Garou Tribe      | Celtic lorekeepers, bards, and passionate warriors. |
+| Get of Fenris            | FEN    | Garou Tribe      | Brutal Norse warriors, defenders of strength and glory. |
+| Glass Walkers            | GLA    | Garou Tribe      | Tech-savvy Garou thriving in cities and systems. |
+| Red Talons               | RTL    | Garou Tribe      | Lupus supremacists, wild and feral defenders of nature. |
+| Shadow Lords             | SLD    | Garou Tribe      | Ambitious power players from the mountains and shadows. |
+| Silent Striders          | STR    | Garou Tribe      | Desert wanderers and bearers of ancient secrets. |
+| Silver Fangs             | SFN    | Garou Tribe      | Aristocratic leaders descended from Garou royalty. |
+| Stargazers               | STG    | Garou Tribe      | Mystics of the East; seekers of enlightenment and balance. |
+| Uktena                   | UKT    | Garou Tribe      | Indigenous spirit-keepers and guardians of hidden lore. |
+| Wendigo                  | WEN    | Garou Tribe      | Northern warriors with a fierce ancestral connection. |
+| Ajaba                    | AJA    | Bastet (Hyena)   | Matriarchal hyena-changers; scavengers and survivalists. |
 | Bagheera                 | BAG    | Bastet (Panther) | Solitary stalkers of mystery and magic. |
-| Balam                    | BAL    | Bastet (Jaguar) | South/Central American defenders and sacred executioners. |
-| Ceilican (Extinct)       | CEI    | Bastet (Lion) | Elusive and fae-touched lion-changers from Europe. |
-| Khan                     | KHN    | Bastet (Tiger) | Fierce warriors and protectors of ancient truths. |
-| Pumonca                  | PUM    | Bastet (Cougar) | North American solitary wanderers with deep wisdom. |
-| Qualmi                   | QUA    | Bastet (Lynx) | Riddlers and truth-seekers of the Northern woods. |
-| Simba                    | SIM    | Bastet (Lion) | Pride-bound and tyrannical lion-changers of Africa. |
-| Ratkin - Engineers       | RTE    | Ratkin Aspect | Saboteurs and bomb-makers targeting human systems. |
-| Ratkin - Freaks          | RTF    | Ratkin Aspect | Mutated Ratkin obsessed with chaos and change. |
-| Ratkin - Knife-Skulkers  | RTK    | Ratkin Aspect | Assassins and ambushers with a deadly edge. |
-| Ratkin - Plague Lords    | RTP    | Ratkin Aspect | Disease-wielders spreading pestilence against the Wyrm. |
-| Ratkin - Tunnel Runners  | RTT    | Ratkin Aspect | Messengers, scouts, and underground couriers. |
+| Balam                    | BAL    | Bastet (Jaguar)  | South/Central American defenders and sacred executioners. |
+| Ceilican (Extinct)       | CEI    | Bastet (Lion)    | Elusive and fae-touched lion-changers from Europe. |
+| Khan                     | KHN    | Bastet (Tiger)   | Fierce warriors and protectors of ancient truths. |
+| Pumonca                  | PUM    | Bastet (Cougar)  | North American solitary wanderers with deep wisdom. |
+| Qualmi                   | QUA    | Bastet (Lynx)    | Riddlers and truth-seekers of the Northern woods. |
+| Simba                    | SIM    | Bastet (Lion)    | Pride-bound and tyrannical lion-changers of Africa. |
+| Ratkin - Engineers       | RTE    | Ratkin Aspect    | Saboteurs and bomb-makers targeting human systems. |
+| Ratkin - Freaks          | RTF    | Ratkin Aspect    | Mutated Ratkin obsessed with chaos and change. |
+| Ratkin - Knife-Skulkers  | RTK    | Ratkin Aspect    | Assassins and ambushers with a deadly edge. |
+| Ratkin - Plague Lords    | RTP    | Ratkin Aspect    | Disease-wielders spreading pestilence against the Wyrm. |
+| Ratkin - Tunnel Runners  | RTT    | Ratkin Aspect    | Messengers, scouts, and underground couriers. |
 
 
 ### Mage
@@ -146,13 +146,13 @@
 #### Houses
 | Name       | Abbrev | Description |
 |------------|--------|-------------|
-| House Dougal     | DOU    | Crafters and perfectionists; deeply tied to honor through labor and industry. |
-| House Eiluned     | EIL    | Mystics and seers; masters of secrets, politics, and subtle manipulation. |
-| House Fiona       | FIO    | Passionate warriors and lovers; impulsive, brave, and romantic. |
-| House Gwydion     | GWY    | Proud leaders and warriors; traditional nobles with strong Seelie ties. |
-| House Liam        | LIA    | Humble and reclusive nobles who favor commoners and personal loyalty. |
-| House Ailil       | AIL    | Unseelie nobles of cunning and ambition; masters of political games and masks. |
-| House Leanhaun    | LEA    | Artists who feed on creativity; dangerously seductive and deeply passionate. |
-| House Scathach    | SCA    | Warrior-scholars with mysterious origins; guardians of ancient martial rites. |
-| House Balor       | BAL    | Ruthless and feared Unseelie house descended from Fomorian blood. |
+| House Dougal   | DOU | Crafters and perfectionists; deeply tied to honor through labor and industry. |
+| House Eiluned  | EIL | Mystics and seers; masters of secrets, politics, and subtle manipulation. |
+| House Fiona    | FIO | Passionate warriors and lovers; impulsive, brave, and romantic. |
+| House Gwydion  | GWY | Proud leaders and warriors; traditional nobles with strong Seelie ties. |
+| House Liam     | LIA | Humble and reclusive nobles who favor commoners and personal loyalty. |
+| House Ailil    | AIL | Unseelie nobles of cunning and ambition; masters of political games and masks. |
+| House Leanhaun | LEA | Artists who feed on creativity; dangerously seductive and deeply passionate. |
+| House Scathach | SCA | Warrior-scholars with mysterious origins; guardians of ancient martial rites. |
+| House Balor    | BAL | Ruthless and feared Unseelie house descended from Fomorian blood. |
 
