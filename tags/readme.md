@@ -29,7 +29,7 @@
 | Toreador Antitribu         | TOT    | Degenerate artists who glorify pain, suffering, and desecration as a form of transcendent expression. |
 | Tzimisce                   | TZI    | Flesh-shaping scholars and warlords, bound to ancient lore and twisted ideals of transcendence through evolution. |
 | Ventrue Antitribu          | VAT    | Ice-cold strategists and military elites; reject their Camarilla kin’s aristocracy in favor of Sabbat meritocracy. |
-| Gargoyle Antitribu         | GAR    | Rebellious stone-skinned former servants of Tremere, claiming autonomy and vengeance under the Sabbat banner. |
+| Gargoyle Antitribu         | GAT    | Rebellious stone-skinned former servants of Tremere, claiming autonomy and vengeance under the Sabbat banner. |
 | Sirens (Daughters Antitribu)| SIR   | Daughters of Cacophony aligned with the Sabbat; use haunting song to inspire madness, ecstasy, and death. |
 | Tremere Antitribu          | TRE    | Outcasts and traitors of the Tremere clan, often infernalists or dark thaumaturges seeking forbidden knowledge. |
 | Samedi Antitribu           | SAM    | Rotting, corpse-like vampires wielding death and decay as power, some aligned with Sabbat through shared darkness. |
@@ -110,4 +110,49 @@
 | Technocracy            | TEC    | Technomystical elite enforcing consensus reality through science. |
 | Nephandi               | NEP    | Corrupted mages serving dark, entropic forces; actively destroy hope. |
 | Marauders              | MAR    | Insane mages embodying chaos; reject consensual reality entirely. |
+
+### Changeling
+
+#### Kiths
+| Name        | Abbrev | Description |
+|-------------|--------|-------------|
+| Boggan      | BOG    | Hearthbound helpers and caretakers; skilled in domestic crafts and community support. |
+| Eshu        | ESH    | Bold travelers and storytellers guided by fate and ancient oral traditions. |
+| Nocker      | NOC    | Inventive but irritable tinkerers and builders; masters of machines and sarcasm. |
+| Redcap      | RED    | Ravenous, violent fae who thrive on fear, challenge, and appetite in all forms. |
+| Satyr       | SAT    | Passionate revelers tied to music, emotion, and unrestrained hedonism. |
+| Sidhe       | SID    | Nobility of the fae; graceful, proud, and bound to ancient codes of honor and tragedy. |
+| Sluagh      | SLU    | Whispering, secretive kith; keepers of the hidden and speakers to the dead. |
+| Troll       | TRL    | Loyal, strong defenders of honor and oaths; mighty guardians of their courts. |
+| Piskies     | PIS    | Tiny pranksters and cheerful helpers; fast, nimble, and full of tricks. |
+| Pooka       | POK    | Shapeshifters and liars with animal features, known for playful chaos and subversion. |
+| Selkie      | SEL    | Oceanic changelings who move between land and sea, driven by deep emotion and longing. |
+| Clurichaun  | CLU    | Fae of drink, revelry, and hidden knowledge; often tied to luck and mischief. |
+| Arcadian Sidhe | ARC | High-born Sidhe from the Dreaming; even more powerful and distant than Earthborn kin. |
+| Ghille Dhu  | GHD    | Forest-bound guardians and recluses tied to ancient, wild places. |
+| Nunnehi     | NUN    | Indigenous fae of North America, fiercely tied to their lands and spirit ways. |
+| Inanimae    | INA    | Elemental fae of stone, air, fire, water, or wood; alien yet primal. |
+
+#### Courts
+
+| Name            | Abbrev | Description |
+|-----------------|--------|-------------|
+| Seelie Court    | SEE    | Champions of honor, tradition, and nobility—yet can be rigid and elitist. |
+| Unseelie Court  | UNS    | Embrace passion, change, and freedom—often wild, unpredictable, or cruel. |
+| Shadow Court    | SHD    | Secretive Unseelie-aligned court acting in darkness, often during Samhain. |
+| Seasonal Court  | SEA    | Rotate with the seasons—Spring (birth), Summer (glory), Fall (wisdom), Winter (death). |
+| Wild Fae        | WLD    | Unaligned changelings or Dreaming-born who reject the politics of the Courts. |
+
+#### Houses
+| Name       | Abbrev | Description |
+|------------|--------|-------------|
+| House Dougal     | DOU    | Crafters and perfectionists; deeply tied to honor through labor and industry. |
+| House Eiluned     | EIL    | Mystics and seers; masters of secrets, politics, and subtle manipulation. |
+| House Fiona       | FIO    | Passionate warriors and lovers; impulsive, brave, and romantic. |
+| House Gwydion     | GWY    | Proud leaders and warriors; traditional nobles with strong Seelie ties. |
+| House Liam        | LIA    | Humble and reclusive nobles who favor commoners and personal loyalty. |
+| House Ailil       | AIL    | Unseelie nobles of cunning and ambition; masters of political games and masks. |
+| House Leanhaun    | LEA    | Artists who feed on creativity; dangerously seductive and deeply passionate. |
+| House Scathach    | SCA    | Warrior-scholars with mysterious origins; guardians of ancient martial rites. |
+| House Balor       | BAL    | Ruthless and feared Unseelie house descended from Fomorian blood. |
 
