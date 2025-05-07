@@ -25,11 +25,11 @@ To represent what others can perceive at a glance, especially in combat, social,
 
 ### Merits & Flaws
 | Code | Meaning             | Applies To       | Notes |
-|------|---------------------|------------------|-------|
-| DFM  | Deformed            | Physical flaws   | Use when not represented by makeup. |
-| AUR  | Aura Visible        | Supernatural aura| Auspex-readable or supernatural signature. |
-| FSP  | Spirit-Prone        | Spirit-affine    | For Spirit Magnet, Faerie Affinity, etc. |
-| MRX  | Mer-Flaw Expressive | Miscellaneous    | Generic tag when flaw visibly affects others. |
+|------|-----------------------|------------------|-------|
+| DFM  | Deformed              | Physical flaws   | Use when not represented by makeup. |
+| AUR  | Aura Feature          | Supernatural aura| Auspex-readable or supernatural signature. |
+| FSP  | Spirit-Prone          | Spirit-affine    | For Spirit Magnet, Faerie Affinity, etc. |
+| MRX  | Merit-Flaw Expressive | Miscellaneous    | Generic tag when flaw visibly affects others. |
 
 ### Morality
 
