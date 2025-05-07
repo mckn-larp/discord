@@ -8,7 +8,7 @@ To represent what others can perceive at a glance, especially in combat, social,
 
 | Code | Meaning            | Applies To                      | Notes |
 |------|--------------------|----------------------------------|-------|
-| HUM  | Humane             | Sabbat (Humanity 6–10)           | Tag as HUE or HU6–HU10 if precision is needed. |
+| HUE  | Humane             | Sabbat (Humanity 6–10)           | Tag as HUE or HU6–HU10 if precision is needed. |
 | IHU  | Inhumane           | Sabbat (Humanity 5–1 or on Path) | Visibly alien or monstrous demeanor. |
 | MAS  | Masked             | Sabbat using powers              | Must declare Obfuscate, rituals, etc. |
 | FCR  | Form: Crinos       | Garou/Fera                       | Required tag for monstrous form. |
@@ -163,63 +163,87 @@ If a power or ability is hiding your tags, you must declare it when relevant (su
 
 
 ### Mage
-| Name                   | Abbrev | Description |
-|------------------------|--------|-------------|
-| Order of Hermes        | HES    | Tradition of structured, Hermetic ritual magic and academic arcana. |
-| Verbena                | VER    | Blood magic practitioners tied to primal nature and pagan traditions. |
-| Euthanatos             | EUT    | Mages of entropy, death, and reincarnation; seekers of karmic balance. |
-| Cult of Ecstasy        | COE    | Hedonists and seekers of altered consciousness and emotional truths. |
-| Dreamspeakers          | DRM    | Spirit-talkers and shamans rooted in animistic and tribal beliefs. |
-| Sons of Ether          | SOE    | Mad scientists pushing reality through fringe science and invention. |
-| Virtual Adepts         | VAD    | Cyber-magicians manipulating digital reality and information flow. |
-| Akashic Brotherhood    | AKA    | Mystics of mind, martial arts, and spiritual enlightenment. |
-| Celestial Chorus       | CEL    | Unified monotheists and divine singers; seek harmony through faith. |
-| Technocracy            | TEC    | Technomystical elite enforcing consensus reality through science. |
-| Nephandi               | NEP    | Corrupted mages serving dark, entropic forces; actively destroy hope. |
-| Marauders              | MAR    | Insane mages embodying chaos; reject consensual reality entirely. |
+| Abbrev | Name                | Description |
+|--------|---------------------|-------------|
+| HES    | Order of Hermes     | Tradition of structured, Hermetic ritual magic and academic arcana. |
+| VER    | Verbena             | Blood magic practitioners tied to primal nature and pagan traditions. |
+| EUT    | Euthanatos          | Mages of entropy, death, and reincarnation; seekers of karmic balance. |
+| COE    | Cult of Ecstasy     | Hedonists and seekers of altered consciousness and emotional truths. |
+| DRM    | Dreamspeakers       | Spirit-talkers and shamans rooted in animistic and tribal beliefs. |
+| SOE    | Sons of Ether       | Mad scientists pushing reality through fringe science and invention. |
+| VAD    | Virtual Adepts      | Cyber-magicians manipulating digital reality and information flow. |
+| AKA    | Akashic Brotherhood | Mystics of mind, martial arts, and spiritual enlightenment. |
+| CEL    | Celestial Chorus    | Unified monotheists and divine singers; seek harmony through faith. |
+| TEC    | Technocracy         | Technomystical elite enforcing consensus reality through science. |
+| NEP    | Nephandi            | Corrupted mages serving dark, entropic forces; actively destroy hope. |
+| MAR    | Marauders           | Insane mages embodying chaos; reject consensual reality entirely. |
+| ORP    | Orphans             | Unaligned mages without a formal group; often self-taught and isolated. |
+| HOL    | Hollow Ones         | Gothic mystics of urban decay and romantic rebellion; often mistaken for Orphans. |
+| ALB    | Ali-Batin           | Hidden Islamic mystics; masters of secrecy, insight, and spiritual balance. |
+| NGU    | Ngoma               | African traditionalists; communal healers and keepers of ancient wisdom. |
+| SHA    | Shaea Mystics       | Pacific spiritualists focused on compassion, balance, and interconnection. |
+| TAO    | Taftani             | Elemental sorcerers from Persian traditions; bold and often volatile. |
+| CRF    | Crafts (Misc)       | Minor or lost traditions from global magical cultures. Use as umbrella if needed. |
+| DIS    | Disparate Alliance  | Recent political coalition of Crafts resisting both Technocracy and Traditions. |
 
 ### Changeling
 
 #### Kiths
-| Name        | Abbrev | Description |
-|-------------|--------|-------------|
-| Boggan      | BOG    | Hearthbound helpers and caretakers; skilled in domestic crafts and community support. |
-| Eshu        | ESH    | Bold travelers and storytellers guided by fate and ancient oral traditions. |
-| Nocker      | NOC    | Inventive but irritable tinkerers and builders; masters of machines and sarcasm. |
-| Redcap      | RED    | Ravenous, violent fae who thrive on fear, challenge, and appetite in all forms. |
-| Satyr       | SAT    | Passionate revelers tied to music, emotion, and unrestrained hedonism. |
-| Sidhe       | SID    | Nobility of the fae; graceful, proud, and bound to ancient codes of honor and tragedy. |
-| Sluagh      | SLU    | Whispering, secretive kith; keepers of the hidden and speakers to the dead. |
-| Troll       | TRL    | Loyal, strong defenders of honor and oaths; mighty guardians of their courts. |
-| Piskies     | PIS    | Tiny pranksters and cheerful helpers; fast, nimble, and full of tricks. |
-| Pooka       | POK    | Shapeshifters and liars with animal features, known for playful chaos and subversion. |
-| Selkie      | SEL    | Oceanic changelings who move between land and sea, driven by deep emotion and longing. |
-| Clurichaun  | CLU    | Fae of drink, revelry, and hidden knowledge; often tied to luck and mischief. |
-| Arcadian Sidhe | ARC | High-born Sidhe from the Dreaming; even more powerful and distant than Earthborn kin. |
-| Ghille Dhu  | GHD    | Forest-bound guardians and recluses tied to ancient, wild places. |
-| Nunnehi     | NUN    | Indigenous fae of North America, fiercely tied to their lands and spirit ways. |
-| Inanimae    | INA    | Elemental fae of stone, air, fire, water, or wood; alien yet primal. |
+| Abbrev | Name            | Description |
+|--------|------------------|-------------|
+| BOG    | Boggan           | Hearthbound helpers and caretakers; skilled in domestic crafts and community support. |
+| ESH    | Eshu             | Bold travelers and storytellers guided by fate and ancient oral traditions. |
+| NOC    | Nocker           | Inventive but irritable tinkerers and builders; masters of machines and sarcasm. |
+| RED    | Redcap           | Ravenous, violent fae who thrive on fear, challenge, and appetite in all forms. |
+| SAT    | Satyr            | Passionate revelers tied to music, emotion, and unrestrained hedonism. |
+| SID    | Sidhe            | Nobility of the fae; graceful, proud, and bound to ancient codes of honor and tragedy. |
+| SLU    | Sluagh           | Whispering, secretive kith; keepers of the hidden and speakers to the dead. |
+| TRL    | Troll            | Loyal, strong defenders of honor and oaths; mighty guardians of their courts. |
+| PIS    | Piskies          | Tiny pranksters and cheerful helpers; fast, nimble, and full of tricks. |
+| POK    | Pooka            | Shapeshifters and liars with animal features, known for playful chaos and subversion. |
+| SEL    | Selkie           | Oceanic changelings who move between land and sea, driven by deep emotion and longing. |
+| CLU    | Clurichaun       | Fae of drink, revelry, and hidden knowledge; often tied to luck and mischief. |
+| ARC    | Arcadian Sidhe   | High-born Sidhe from the Dreaming; even more powerful and distant than Earthborn kin. |
+| GHD    | Ghille Dhu       | Forest-bound guardians and recluses tied to ancient, wild places. |
+| NUN    | Nunnehi          | Indigenous fae of North America, fiercely tied to their lands and spirit ways. |
+| INA    | Inanimae         | Elemental fae of stone, air, fire, water, or wood; alien yet primal. |
+| ADH    | Adhene           | Exiled pre-Shattering fae; powerful, alien, and often hostile to modern changelings. |
+| MOI    | Moirae           | Fate-binding seers inspired by the Greek Fates; rare and enigmatic. |
+| MEN    | Menehune         | Hawaiian fae; builders, protectors, and nature spirits of the islands. |
+| KIN    | Kithain Kin      | Mortal or fae-blooded humans with sensitivity to Glamour; often support roles. |
+| KWJ    | Kwannon-jin      | Eastern Dreaming spirits, balancing Taoist and Buddhist mysticism. |
+| THA    | Thallain         | Unseelie nightmare-fae created from pain and shadow; often adversarial. |
+| GLO    | Glome            | Reclusive stone fae, protectors of caverns and lost history. |
+| WAS    | Wassailers       | Banality-consumed fae on the verge of being lost; tragic figures of decay. |
 
 #### Courts
 
-| Name            | Abbrev | Description |
-|-----------------|--------|-------------|
-| Seelie Court    | SEE    | Champions of honor, tradition, and nobility—yet can be rigid and elitist. |
-| Unseelie Court  | UNS    | Embrace passion, change, and freedom—often wild, unpredictable, or cruel. |
-| Shadow Court    | SHD    | Secretive Unseelie-aligned court acting in darkness, often during Samhain. |
-| Seasonal Court  | SEA    | Rotate with the seasons—Spring (birth), Summer (glory), Fall (wisdom), Winter (death). |
-| Wild Fae        | WLD    | Unaligned changelings or Dreaming-born who reject the politics of the Courts. |
+| Abbrev | Name                | Description |
+|--------|---------------------|-------------|
+| SEE    | Seelie Court        | Champions of honor, tradition, and nobility—yet can be rigid and elitist. |
+| UNS    | Unseelie Court      | Embrace passion, change, and freedom—often wild, unpredictable, or cruel. |
+| SHD    | Shadow Court        | Secretive Unseelie-aligned court acting in darkness, often during Samhain. |
+| SEA    | Seasonal Court      | Rotate with the seasons—Spring (birth), Summer (glory), Fall (wisdom), Winter (death). |
+| WLD    | Wild Fae            | Unaligned changelings or Dreaming-born who reject the politics of the Courts. |
+| POD    | Parliament of Dreams| Global diplomatic forum for changeling monarchs and emissaries. |
+| RDB    | Red Branch          | Seelie knightly order devoted to quests and Arthurian ideals. |
+| STP    | Shadow Templars     | Unseelie enforcers focused on justice through shadow and secrecy. |
+| GRY    | Gray Walkers        | Wandering exiles and mystics navigating between Courts and identities. |
+| HON    | Satirical Order of Honk | Tricksters who use absurdity, satire, and clowning to challenge fae hierarchy. |
 
 #### Houses
-| Name       | Abbrev | Description |
-|------------|--------|-------------|
-| House Dougal   | DOU | Crafters and perfectionists; deeply tied to honor through labor and industry. |
-| House Eiluned  | EIL | Mystics and seers; masters of secrets, politics, and subtle manipulation. |
-| House Fiona    | FIO | Passionate warriors and lovers; impulsive, brave, and romantic. |
-| House Gwydion  | GWY | Proud leaders and warriors; traditional nobles with strong Seelie ties. |
-| House Liam     | LIA | Humble and reclusive nobles who favor commoners and personal loyalty. |
-| House Ailil    | AIL | Unseelie nobles of cunning and ambition; masters of political games and masks. |
-| House Leanhaun | LEA | Artists who feed on creativity; dangerously seductive and deeply passionate. |
-| House Scathach | SCA | Warrior-scholars with mysterious origins; guardians of ancient martial rites. |
-| House Balor    | BAL | Ruthless and feared Unseelie house descended from Fomorian blood. |
-
+| Abbrev | Name             | Description |
+|--------|------------------|-------------|
+| DOU    | House Dougal      | Crafters and perfectionists; deeply tied to honor through labor and industry. |
+| EIL    | House Eiluned     | Mystics and seers; masters of secrets, politics, and subtle manipulation. |
+| FIO    | House Fiona       | Passionate warriors and lovers; impulsive, brave, and romantic. |
+| GWY    | House Gwydion     | Proud leaders and warriors; traditional nobles with strong Seelie ties. |
+| LIA    | House Liam        | Humble and reclusive nobles who favor commoners and personal loyalty. |
+| AIL    | House Ailil       | Unseelie nobles of cunning and ambition; masters of political games and masks. |
+| LEA    | House Leanhaun    | Artists who feed on creativity; dangerously seductive and deeply passionate. |
+| SCA    | House Scathach    | Warrior-scholars with mysterious origins; guardians of ancient martial rites. |
+| BLR    | House Balor       | Ruthless and feared Unseelie house descended from Fomorian blood. |
+| CAR    | House Caradoc     | A lost House, destroyed in ancient wars; some changelings claim descent and try to restore it. |
+| NYX    | House Nyx         | Secretive Unseelie lineage rumored to manipulate from the shadows; not officially recognized. |
+| RIN    | House Rinalle     | Explorers and diplomats once exiled; wanderers now forging bonds with Nunnehi and other fae. |
+| DAU    | House Daireann    | Minor Seelie House in some chronicles, associated with truth, hearths, and hospitality. |
