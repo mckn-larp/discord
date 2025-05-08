@@ -91,7 +91,6 @@ Discord Announcements
   - Channel: sab-voice (voice)
 
 ### Category: SAB 🟡  Pack/Faction
-  - Channel: dupe-me (text)
   - Channel: stq-longs-drug (text)
   - Channel: mod-market-square (text)
   - Channel: loy-schumpert-park (text)
