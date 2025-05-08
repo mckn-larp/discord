@@ -2,6 +2,12 @@
 
 Note that a number of channels are unpublished from the below. Expect it. Some things are secret...
 
+## Color Codes
+- ⚫ : Lethal. Actions here can easily get you killed or worse. [Requires fully signed in characters]
+- 🔴 : Dangerous. Actions here can kill you. While generally confined to your line, expect bad things.
+- 🟡 : Risky. While reasonably safe, actions here have direct consequences - especially from one's own.
+- 🟢 : Safe. In the ways that the World of Darkness is safe. It's not, but dying here means you made truly serious errors.
+
 ## Channel: rules (text)
 Server Rules
 
